@@ -1,5 +1,9 @@
 # Hasil komputasi Fase 2 — antivirus herbal H9N2
 
+> **Status:** hasil antara dari penelitian yang sedang berjalan; naskahnya belum
+> terbit. Angka-angka di sini masih dapat berubah sebelum publikasi. Bila Anda
+> memakainya, mohon hubungi tim penelitinya lebih dulu.
+
 Seluruh berkas hasil dari tahap perbaikan data, penyaringan ADMET, penentuan
 target, docking, dan verifikasi lanjutan. Setiap angka yang dikutip di laporan
 tim dapat ditelusuri ke salah satu berkas di sini.
