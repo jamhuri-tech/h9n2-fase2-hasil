@@ -1,0 +1,8 @@
+pdb_id,ligand,ligan,n_pose_dinilai,vinardo_rescore_best,vinardo_rescore_mean_top3
+8T5W,085_Forsythoside_D,Forsythoside D,27,-6.17,-6.17
+8T5W,001_Glucogallin,Glucogallin,27,-5.05,-5.0
+8T5W,003_Adoxosidic_acid,Adoxosidic acid,27,-5.05,-5.04
+8T5W,035_Caffeic_acid,Caffeic acid,27,-4.41,-4.39
+8T5W,055_Salvianic_acid_A,Salvianic acid A,27,-4.08,-4.06
+8T5W,029_p-Coumaric_acid,p-Coumaric acid,27,-4.0,-3.97
+8T5W,041_+-Ascorbic_acid,+-Ascorbic acid,27,-3.85,-3.82

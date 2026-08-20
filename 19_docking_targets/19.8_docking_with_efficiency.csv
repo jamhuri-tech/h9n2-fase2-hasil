@@ -1,0 +1,64 @@
+group,target,pdb_id,ligand,control_passed,affinity_mean,affinity_sd,affinity_best,heavy,LE,ligan
+inang,DPP4,4A5S,085_Forsythoside_D,True,-8.8,0.03,-8.83,33,0.267,Forsythoside D
+inang,DPP4,4A5S,001_Glucogallin,True,-8.15,0.01,-8.16,23,0.354,Glucogallin
+inang,DPP4,4A5S,003_Adoxosidic_acid,True,-7.66,0.02,-7.67,26,0.295,Adoxosidic acid
+inang,DPP4,4A5S,035_Caffeic_acid,True,-6.24,0.02,-6.25,13,0.48,Caffeic acid
+inang,DPP4,4A5S,055_Salvianic_acid_A,True,-6.24,0.02,-6.26,14,0.446,Salvianic acid A
+inang,DPP4,4A5S,029_p-Coumaric_acid,True,-5.71,0.0,-5.71,12,0.476,p-Coumaric acid
+inang,DPP4,4A5S,041_+-Ascorbic_acid,True,-5.69,0.01,-5.69,12,0.474,+-Ascorbic acid
+inang,MIF,6B1K,029_p-Coumaric_acid,True,-7.67,0.0,-7.67,12,0.639,p-Coumaric acid
+inang,MIF,6B1K,085_Forsythoside_D,True,-7.38,0.01,-7.39,33,0.224,Forsythoside D
+inang,MIF,6B1K,035_Caffeic_acid,True,-7.35,0.01,-7.36,13,0.565,Caffeic acid
+inang,MIF,6B1K,055_Salvianic_acid_A,True,-7.05,0.02,-7.07,14,0.504,Salvianic acid A
+inang,MIF,6B1K,001_Glucogallin,True,-6.06,0.55,-6.69,23,0.263,Glucogallin
+inang,MIF,6B1K,003_Adoxosidic_acid,True,-5.64,0.03,-5.67,26,0.217,Adoxosidic acid
+inang,MIF,6B1K,041_+-Ascorbic_acid,True,-5.25,0.01,-5.26,12,0.438,+-Ascorbic acid
+inang,MMP2,8H78,085_Forsythoside_D,True,-9.08,0.11,-9.21,33,0.275,Forsythoside D
+inang,MMP2,8H78,001_Glucogallin,True,-7.81,0.04,-7.85,23,0.34,Glucogallin
+inang,MMP2,8H78,003_Adoxosidic_acid,True,-7.76,0.0,-7.76,26,0.298,Adoxosidic acid
+inang,MMP2,8H78,029_p-Coumaric_acid,True,-7.03,0.01,-7.04,12,0.586,p-Coumaric acid
+inang,MMP2,8H78,035_Caffeic_acid,True,-7.03,0.01,-7.04,13,0.541,Caffeic acid
+inang,MMP2,8H78,055_Salvianic_acid_A,True,-6.99,0.0,-6.99,14,0.499,Salvianic acid A
+inang,MMP2,8H78,041_+-Ascorbic_acid,True,-5.97,0.0,-5.97,12,0.498,+-Ascorbic acid
+inang,MMP9,4XCT,085_Forsythoside_D,True,-9.36,0.01,-9.38,33,0.284,Forsythoside D
+inang,MMP9,4XCT,001_Glucogallin,True,-8.19,0.05,-8.25,23,0.356,Glucogallin
+inang,MMP9,4XCT,003_Adoxosidic_acid,True,-7.84,0.01,-7.85,26,0.302,Adoxosidic acid
+inang,MMP9,4XCT,055_Salvianic_acid_A,True,-7.48,0.01,-7.49,14,0.534,Salvianic acid A
+inang,MMP9,4XCT,035_Caffeic_acid,True,-7.3,0.01,-7.31,13,0.562,Caffeic acid
+inang,MMP9,4XCT,029_p-Coumaric_acid,True,-6.93,0.0,-6.93,12,0.578,p-Coumaric acid
+inang,MMP9,4XCT,041_+-Ascorbic_acid,True,-6.07,0.01,-6.07,12,0.506,+-Ascorbic acid
+virus,Hemagglutinin H9,1JSI,085_Forsythoside_D,True,-6.48,0.01,-6.49,33,0.196,Forsythoside D
+virus,Hemagglutinin H9,1JSH,085_Forsythoside_D,True,-6.35,0.01,-6.36,33,0.192,Forsythoside D
+virus,Hemagglutinin H9,1JSI,003_Adoxosidic_acid,True,-6.03,0.0,-6.03,26,0.232,Adoxosidic acid
+virus,Hemagglutinin H9,1JSH,003_Adoxosidic_acid,True,-6.01,0.02,-6.03,26,0.231,Adoxosidic acid
+virus,Hemagglutinin H9,1JSI,001_Glucogallin,True,-5.52,0.03,-5.56,23,0.24,Glucogallin
+virus,Hemagglutinin H9,1JSH,001_Glucogallin,True,-5.31,0.1,-5.37,23,0.231,Glucogallin
+virus,Hemagglutinin H9,1JSH,055_Salvianic_acid_A,True,-5.2,0.02,-5.21,14,0.371,Salvianic acid A
+virus,Hemagglutinin H9,1JSI,055_Salvianic_acid_A,True,-5.12,0.01,-5.12,14,0.366,Salvianic acid A
+virus,Hemagglutinin H9,1JSI,029_p-Coumaric_acid,True,-4.9,0.01,-4.9,12,0.408,p-Coumaric acid
+virus,Hemagglutinin H9,1JSI,035_Caffeic_acid,True,-4.9,0.01,-4.91,13,0.377,Caffeic acid
+virus,Hemagglutinin H9,1JSH,035_Caffeic_acid,True,-4.88,0.01,-4.89,13,0.375,Caffeic acid
+virus,Hemagglutinin H9,1JSH,029_p-Coumaric_acid,True,-4.87,0.01,-4.88,12,0.406,p-Coumaric acid
+virus,Hemagglutinin H9,1JSH,041_+-Ascorbic_acid,True,-4.1,0.02,-4.12,12,0.342,+-Ascorbic acid
+virus,Hemagglutinin H9,1JSI,041_+-Ascorbic_acid,True,-4.1,0.11,-4.23,12,0.342,+-Ascorbic acid
+virus,Neuraminidase N2,4K1K,085_Forsythoside_D,True,-8.2,0.03,-8.22,33,0.248,Forsythoside D
+virus,Neuraminidase N2,4K1K,003_Adoxosidic_acid,True,-7.81,0.02,-7.83,26,0.3,Adoxosidic acid
+virus,Neuraminidase N2,4K1K,001_Glucogallin,True,-7.53,0.13,-7.67,23,0.327,Glucogallin
+virus,Neuraminidase N2,4K1K,055_Salvianic_acid_A,True,-6.23,0.01,-6.24,14,0.445,Salvianic acid A
+virus,Neuraminidase N2,4K1K,035_Caffeic_acid,True,-5.73,0.01,-5.74,13,0.441,Caffeic acid
+virus,Neuraminidase N2,4K1K,041_+-Ascorbic_acid,True,-5.45,0.0,-5.45,12,0.454,+-Ascorbic acid
+virus,Neuraminidase N2,4K1K,029_p-Coumaric_acid,True,-5.28,0.04,-5.31,12,0.44,p-Coumaric acid
+virus,Nucleoprotein,4DYN,085_Forsythoside_D,True,-9.14,0.01,-9.16,33,0.277,Forsythoside D
+virus,Nucleoprotein,4DYN,003_Adoxosidic_acid,True,-7.96,0.01,-7.96,26,0.306,Adoxosidic acid
+virus,Nucleoprotein,4DYN,001_Glucogallin,True,-7.41,0.0,-7.41,23,0.322,Glucogallin
+virus,Nucleoprotein,4DYN,029_p-Coumaric_acid,True,-6.92,0.01,-6.93,12,0.577,p-Coumaric acid
+virus,Nucleoprotein,4DYN,035_Caffeic_acid,True,-6.58,0.0,-6.58,13,0.506,Caffeic acid
+virus,Nucleoprotein,4DYN,055_Salvianic_acid_A,True,-6.43,0.01,-6.44,14,0.459,Salvianic acid A
+virus,Nucleoprotein,4DYN,041_+-Ascorbic_acid,True,-5.42,0.0,-5.42,12,0.452,+-Ascorbic acid
+virus,PA endonuclease,8T5W,085_Forsythoside_D,True,-9.09,0.01,-9.1,33,0.275,Forsythoside D
+virus,PA endonuclease,8T5W,003_Adoxosidic_acid,True,-7.38,0.0,-7.38,26,0.284,Adoxosidic acid
+virus,PA endonuclease,8T5W,001_Glucogallin,True,-7.35,0.02,-7.37,23,0.32,Glucogallin
+virus,PA endonuclease,8T5W,035_Caffeic_acid,True,-6.04,0.03,-6.06,13,0.465,Caffeic acid
+virus,PA endonuclease,8T5W,055_Salvianic_acid_A,True,-5.64,0.01,-5.65,14,0.403,Salvianic acid A
+virus,PA endonuclease,8T5W,029_p-Coumaric_acid,True,-5.49,0.03,-5.52,12,0.458,p-Coumaric acid
+virus,PA endonuclease,8T5W,041_+-Ascorbic_acid,True,-5.29,0.0,-5.29,12,0.441,+-Ascorbic acid

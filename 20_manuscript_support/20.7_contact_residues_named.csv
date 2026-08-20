@@ -1,0 +1,12 @@
+reseptor,pdb_id,ligan,dG,recall,kontak_bersama,hanya_kandidat,tidak_tersentuh
+DPP4,4A5S,Salvianic acid A,-6.24,0.62,"Glu205(A), Glu206(A), His740(A), Ser630(A), Tyr547(A), Tyr631(A), Tyr662(A), Tyr666(A), Val656(A), Val711(A)","Asn710(A), Trp659(A)","Asp545(A), Gly628(A), Lys554(A), Trp627(A), Trp629(A), Val546(A)"
+MIF,6B1K,p-Coumaric acid,-7.67,0.92,"Asn97(C), His62(A), Ile64(A), Lys32(A), Met2(A), Phe113(A), Pro1(A), Ser63(A), Tyr36(A), Tyr95(C), Val106(A)",,Pro33(A)
+MIF,6B1K,Forsythoside D,-7.38,1.0,"Asn97(C), His62(A), Ile64(A), Lys32(A), Met2(A), Phe113(A), Pro1(A), Pro33(A), Ser63(A), Tyr36(A), Tyr95(C), Val106(A)","Gly65(A), Lys66(A), Met101(A)",
+MIF,6B1K,Caffeic acid,-7.35,0.92,"Asn97(C), His62(A), Ile64(A), Lys32(A), Met2(A), Phe113(A), Pro1(A), Ser63(A), Tyr36(A), Tyr95(C), Val106(A)",Met101(A),Pro33(A)
+MIF,6B1K,Salvianic acid A,-7.05,0.92,"Asn97(C), His62(A), Ile64(A), Lys32(A), Met2(A), Phe113(A), Pro1(A), Ser63(A), Tyr36(A), Tyr95(C), Val106(A)",Met101(A),Pro33(A)
+MIF,6B1K,Glucogallin,-6.06,0.92,"Asn97(C), His62(A), Ile64(A), Lys32(A), Met2(A), Phe113(A), Pro1(A), Ser63(A), Tyr36(A), Tyr95(C), Val106(A)",Met101(A),Pro33(A)
+MIF,6B1K,+-Ascorbic acid,-5.25,0.67,"His62(A), Ile64(A), Lys32(A), Phe113(A), Pro1(A), Ser63(A), Tyr95(C), Val106(A)",Met101(A),"Asn97(C), Met2(A), Pro33(A), Tyr36(A)"
+MMP2,8H78,Forsythoside D,-9.08,0.71,"Ala137(A), Ala140(A), Ala84(A), Ala86(A), Glu130(A), Gly81(A), His121(A), His125(A), His131(A), His85(A), Ile142(A), Leu117(A), Leu138(A), Leu82(A), Leu83(A), Phe5(A), Pro141(A), Thr144(A), Tyr143(A), Val118(A), Zn(A)",,"Ala88(A), Gly90(A), Gly94(A), Phe149(A), Phe87(A), Pro6(A), Thr91(A), Tyr74(A)"
+MMP9,4XCT,Forsythoside D,-9.36,0.94,"Ala189(A), Glu227(A), Gly186(A), His226(A), His230(A), His236(A), Leu187(A), Leu188(A), Leu222(A), Leu243(A), Met247(A), Pro246(A), Tyr245(A), Tyr248(A), Val223(A), Zn(A)",,His190(A)
+Neuraminidase N2,4K1K,Forsythoside D,-6.56,0.62,"Arg118(A), Arg152(A), Arg292(A), Arg371(A), Glu119(A), Glu277(A), Trp178(A), Tyr406(A)","Arg156(A), Asp151(A), Gln136(A), Glu227(A), His150(A), Thr148(A), Val149(A)","Ala246(A), Arg224(A), Asn294(A), Glu276(A), Ile222(A)"
+Neuraminidase N2,4K1K,Adoxosidic acid,-5.4,0.85,"Ala246(A), Arg152(A), Arg224(A), Arg292(A), Arg371(A), Asn294(A), Glu119(A), Glu276(A), Glu277(A), Trp178(A), Tyr406(A)","Arg156(A), Glu227(A), Ser179(A)","Arg118(A), Ile222(A)"

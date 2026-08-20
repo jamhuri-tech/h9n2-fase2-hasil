@@ -1,0 +1,8 @@
+group,target,pdb_id,ligand,scoring,affinity_mean,affinity_sd,affinity_best
+virus,Neuraminidase N2,4K1K,085_Forsythoside_D,vinardo,-6.56,0.01,-6.57
+virus,Neuraminidase N2,4K1K,001_Glucogallin,vinardo,-5.65,0.01,-5.66
+virus,Neuraminidase N2,4K1K,003_Adoxosidic_acid,vinardo,-5.4,0.01,-5.41
+virus,Neuraminidase N2,4K1K,055_Salvianic_acid_A,vinardo,-5.08,0.01,-5.08
+virus,Neuraminidase N2,4K1K,035_Caffeic_acid,vinardo,-4.64,0.01,-4.65
+virus,Neuraminidase N2,4K1K,029_p-Coumaric_acid,vinardo,-4.27,0.05,-4.3
+virus,Neuraminidase N2,4K1K,041_+-Ascorbic_acid,vinardo,-4.25,0.0,-4.25

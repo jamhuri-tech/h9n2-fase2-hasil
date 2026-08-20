@@ -1,0 +1,10 @@
+dockable_vina,flexibility_warning,ndd_rank,Metabolite,Organism,PubChem_ID,ndd_prob,smiles_isomeric,n_stereocenters,formal_charge_pH7.4,mmff_energy,n_rotatable,MW,cLogP,TPSA,sdf,pdbqt
+True,False,1,Glucogallin,Phyllanthus niruri,124375,0.99479,CO[C@@H]1[C@H]([C@@H]([C@H](C(O1)OC(=O)C2=CC(=C(C(=C2)O)O)O)O)O)O,5,0,70.26,3.0,332.26,-1.63,166.14,001_Glucogallin.sdf,001_Glucogallin.pdbqt
+True,False,3,Adoxosidic acid,Forsythia suspensa,13892717,0.99371,C1C[C@H]2[C@@H]([C@H]1CO)[C@@H](OC=C2C(=O)O)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,9,-1,79.74,5.0,376.36,-2.24,166.14,003_Adoxosidic_acid.sdf,003_Adoxosidic_acid.pdbqt
+True,True,23,Gingerglycolipid C,Zingiber officinale,10259020,0.98475,CCCCCCCC/C=C\CCCCCCCC(=O)OC[C@H](CO[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO[C@@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O)O)O)O,11,0,213.61,24.0,680.83,0.57,225.06,023_Gingerglycolipid_C.sdf,023_Gingerglycolipid_C.pdbqt
+True,True,24,Gingerglycolipid B,Zingiber officinale,10009754,0.98463,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC[C@H](CO[C@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO[C@@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O)O)O)O)O,11,0,217.97,23.0,678.81,0.34,225.06,024_Gingerglycolipid_B.sdf,024_Gingerglycolipid_B.pdbqt
+True,False,29,p-Coumaric acid,Melissa officinalis,637542,0.98195,C1=CC(=CC=C1/C=C/C(=O)O)O,0,-1,-1.35,2.0,164.16,1.49,57.53,029_p-Coumaric_acid.sdf,029_p-Coumaric_acid.pdbqt
+True,False,35,Caffeic acid,Andrographis paniculata,689043,0.9783,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,0,-1,-2.18,2.0,180.16,1.2,77.76,035_Caffeic_acid.sdf,035_Caffeic_acid.pdbqt
+True,False,41,(+)-Ascorbic acid,Zingiber officinale,54670067,0.97731,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,2,-1,54.58,2.0,176.12,-1.41,107.22,041_+-Ascorbic_acid.sdf,041_+-Ascorbic_acid.pdbqt
+True,False,55,Salvianic acid A,Melissa officinalis,439435,0.97252,C1=CC(=C(C=C1C[C@H](C(=O)O)O)O)O,1,-1,59.98,3.0,198.17,0.09,97.99,055_Salvianic_acid_A.sdf,055_Salvianic_acid_A.pdbqt
+True,False,85,Forsythoside D,Forsythia suspensa,5317383,0.95916,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OCC(C3=CC(=C(C=C3)O)O)O)O)O)O)O)O)O,11,0,193.97,7.0,478.45,-3.2,218.99,085_Forsythoside_D.sdf,085_Forsythoside_D.pdbqt

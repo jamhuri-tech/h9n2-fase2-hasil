@@ -1,0 +1,10 @@
+pdb_id,target,native_ligand,redock_score,rmsd_top_pose_A,rmsd_best_pose_A,control_passed_scoring,control_passed_sampling,note,best_pose_rank,n_heavy_atoms,scoring
+1JSI,Hemagglutinin H9,,,,,,,"situs ditandai glikan (entitas polimer), bukan ligan nonpolimer",,,
+1JSH,Hemagglutinin H9,,,,,,,"situs ditandai glikan (entitas polimer), bukan ligan nonpolimer",,,
+4K1K,Neuraminidase N2,G39,-6.44,4.51,0.39,False,True,,2.0,20.0,vina
+8T5W,PA endonuclease,E4Z,-10.85,4.04,0.3,False,True,,4.0,34.0,vina
+3RO5,Nucleoprotein,LGH,-9.541,8.18,0.47,False,True,,2.0,32.0,vina
+4XCT,MMP9,N73,-9.278,1.21,0.95,True,True,,2.0,28.0,vina
+8H78,MMP2,L2U,-9.626,7.97,3.96,False,False,,3.0,64.0,vina
+4A5S,DPP4,N7F,-11.11,0.83,0.83,True,True,,1.0,37.0,vina
+6B1K,MIF,C9G,-11.062,0.25,0.25,True,True,,1.0,24.0,vina

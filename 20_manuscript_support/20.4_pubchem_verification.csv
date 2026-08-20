@@ -1,0 +1,105 @@
+PubChem_ID,Metabolite,nama_pubchem,formula_kita,formula_pubchem,formula_cocok,struktur_cocok,identity_ambiguous,status
+124375,Glucogallin,Glucogallin,C13H16O10,C13H16O10,True,True,False,cocok
+5281762,5-O-Caffeoylshikimic acid,5-O-Caffeoylshikimic acid,C16H16O8,C16H16O8,True,True,False,cocok
+13892717,Adoxosidic acid,Adoxosidic acid,C16H24O10,C16H24O10,True,True,False,cocok
+5281792,Labiatenic acid,Rosmarinic Acid,C18H16O8,C18H16O8,True,True,False,cocok
+10459878,Melitric acid A,Melitric acid A,C27H22O12,C27H22O12,True,True,False,cocok
+6441498,Lithospermic acid,Lithospermic Acid,C27H22O12,C27H22O12,True,True,False,cocok
+6451084,Salvianolic acid B,Salvianolic Acid B,C36H30O16,C36H30O16,True,True,False,cocok
+21637585,Punigluconin,Punigluconin,C34H26O23,C34H26O23,True,True,False,cocok
+131752903,Melitric acid B,Melitric acid B,C27H20O11,C27H20O11,True,True,False,cocok
+5281793,Salvianolic acid A,Salvianolic acid,C26H22O10,C26H22O10,True,True,False,cocok
+119058016,Emblicanin A,Emblicanin A,C34H22O22,C34H22O22,True,True,False,cocok
+25244691,Clinopodic acid A,Clinopodic Acid A,C18H16O7,C18H16O7,True,True,False,cocok
+442688,Pedunculagin,Pedunculagin,C34H24O22,C34H24O22,True,True,False,cocok
+102405297,Nirurin,Nirurin,C32H40O15,C32H40O15,True,True,False,cocok
+5281798,Suspensaside,Suspensaside,C29H36O16,C29H36O16,True,True,False,cocok
+8468,Vanillic acid,Vanillic Acid,C8H8O4,C8H8O4,True,True,False,cocok
+23760102,(+)-Sagerinic acid,Sagerinic acid,C36H32O16,C36H32O16,True,True,False,cocok
+370,Gallic acid,Gallic Acid,C7H6O5,C7H6O5,True,True,False,cocok
+101789466,Eriodictin,Eriodictin,C21H22O10,C21H22O10,True,True,False,cocok
+5281773,Forsythiaside,Forsythoside A,C29H36O15,C29H36O15,True,True,False,cocok
+70697928,Niruriside,Niruriside,C38H42O17,C38H42O17,True,True,False,cocok
+13963762,Andrographidin A,Andrographidin A,C23H26O10,C23H26O10,True,True,False,cocok
+10259020,Gingerglycolipid C,Gingerglycolipid C,C33H60O14,C33H60O14,True,True,False,cocok
+10009754,Gingerglycolipid B,Gingerglycolipid B,C33H58O14,C33H58O14,True,True,False,cocok
+122850,(+)-Dihydrokaempferol,Dihydrokaempferol,C15H12O6,C15H12O6,True,True,False,cocok
+10349562,Gingerglycolipid A,Gingerglycolipid A,C33H56O14,C33H56O14,True,True,False,cocok
+10253785,Luteolin 3'-O-beta-D-glucuronide,luteolin 3'-O-glucuronide,C21H18O12,C21H18O12,True,True,False,cocok
+5316820,Nepetoidin A,Nepetoidin A,C17H14O6,C17H14O6,True,True,False,cocok
+637542,p-Coumaric acid,P-Coumaric Acid,C9H8O3,C9H8O3,True,True,False,cocok
+1794427,3-Caffeoylquinic acid,Chlorogenic Acid,C16H18O9,C16H18O9,True,True,False,cocok
+5318274,[4]-Gingerdiacetate,"3,5-Octanediol, 1-(4-hydroxy-3-methoxyphenyl)-, 3,5-diacetate",C19H28O6,C19H28O6,True,True,False,cocok
+10651175,Yunnaneic acid F,Yunnaneic acid F,C29H26O14,C29H26O14,True,True,False,cocok
+445858,Ferulic acid,Ferulic Acid,C10H10O4,C10H10O4,True,True,False,cocok
+445638,Palmitoleic acid,Palmitoleic Acid,C16H30O2,C16H30O2,True,True,False,cocok
+689043,Caffeic acid,Caffeic Acid,C9H8O4,C9H8O4,True,True,False,cocok
+5280459,Quercetin 3-O-alpha-L-rhamnoside,Quercitrin,C21H20O11,C21H20O11,True,True,False,cocok
+8180,Undecanoic acid,Undecanoic Acid,C11H22O2,C11H22O2,True,True,False,cocok
+3893,Dodecanoic acid,Lauric Acid,C12H24O2,C12H24O2,True,True,False,cocok
+11005,Myristic acid,Myristic Acid,C14H28O2,C14H28O2,True,True,False,cocok
+13849,Pentadecanoic acid,Pentadecanoic Acid,C15H30O2,C15H30O2,True,True,False,cocok
+54670067,(+)-Ascorbic acid,L-Ascorbic Acid,C6H8O6,C6H8O6,True,True,False,cocok
+10465,Heptadecanoic acid,Heptadecanoic Acid,C17H34O2,C17H34O2,True,True,False,cocok
+11197,Lignoceric acid,Tetracosanoic Acid,C24H48O2,C24H48O2,True,True,False,cocok
+10471,Triacontanoic acid,Triacontanoic acid,C30H60O2,C30H60O2,True,True,False,cocok
+13963770,"5-Hydroxy-7,8-dimethoxyflavanone","5-Hydroxy-7,8-Dimethoxyflavanone",C17H16O5,C17H16O5,True,True,False,cocok
+44258925,Kaempferol 4'-rhamnoside,"3,5,7-trihydroxy-2-[4-[(2S,3S,5R)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyphenyl]chromen-4-one",C21H20O10,C21H20O10,True,True,False,cocok
+5317587,"[6]-Gingerdiol 3,5-diacetate","[6]-Gingerdiol 3,5-diacetate",C21H32O6,C21H32O6,True,True,False,cocok
+10327092,Quadranoside III,quadranoside III,C36H58O11,C36H58O11,True,True,False,cocok
+156373480,[8]-Gingerdiol,(8)-Gingerdiol,C23H36O6,C23H36O6,True,True,False,cocok
+6475119,Acetylursolic acid,O-Acetylursolic Acid,C32H50O4,C32H50O4,True,True,False,cocok
+12681385,Foliamenthic acid,Foliamenthoic acid,C10H16O3,C10H16O3,True,True,False,cocok
+44575270,Ninandrographolide,14-Deoxyandrographoside,C26H40O9,C26H40O9,True,True,False,cocok
+71589914,14-Acetylandrographolide,"4-{2-[6-Hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidenedecahydronaphthalen-1-yl]ethylidene}-5-oxotetrahydrofuran-3-yl acetate",C22H32O6,C22H32O6,True,True,False,cocok
+13963764,"5,4'-Dihidroxy-7,8,2',3'-tetramethoxy flavone 5-glucoside","5,4'-Dihidroxy-7,8,2',3'-tetramethoxy flavone 5-glucoside",C25H28O13,C25H28O13,True,True,False,cocok
+439435,Salvianic acid A,"3-(3,4-Dihydroxyphenyl)-2-hydroxypropanoic acid",C9H10O5,C9H10O5,True,True,True,cocok
+12000062,Bisandrographolide C,Bisandrographolide,C40H56O8,C40H56O8,True,True,False,cocok
+5488686,Wogonin 5-glucoside,"4H-1-Benzopyran-4-one, 5-(beta-D-glucopyranosyloxy)-7-hydroxy-8-methoxy-2-phenyl-",C22H22O10,C22H22O10,True,True,False,cocok
+10903113,Salvianolic acid F,Salvianolic Acid F,C17H14O6,C17H14O6,True,True,False,cocok
+5280805,Quercetin 3-rutinoside,Rutin,C27H30O16,C27H30O16,True,True,False,cocok
+44258557,"5-Hydroxy-7,8-dimethoxyflavone 5-glucoside","5-Hydroxy-7,8-dimethoxyflavone 5-glucoside",C23H24O10,C23H24O10,True,True,False,cocok
+11968627,"5,2',3'-Trihydroxy-7,8-dimethoxyflavone 3'-glucoside","5,2',3'-Trihydroxy-7,8-dimethoxyflavone 3'-glucoside",C23H24O12,C23H24O12,True,True,False,cocok
+3084463,3-Palmitoyl-sn-glycerol,1-Palmitoyl-sn-glycerol,C19H38O4,C19H38O4,True,True,True,cocok
+11821485,Paniculide A,Paniculide A,C15H20O4,C15H20O4,True,True,False,cocok
+12098358,Dihydroskullcap flavone I,"5,2'-Dihydroxy-7,8-dimethoxyflavanone",C17H16O6,C17H16O6,True,True,False,cocok
+44258544,"5-Hydroxy-7,8,2',3'-tetramethoxyflavone 5-glucoside","5-Hydroxy-7,8,2',3'-tetramethoxyflavone 5-glucoside",C25H28O12,C25H28O12,True,True,False,cocok
+44258136,Luteolin 7-glucoside-3'-glucuronide,Luteolin 7-glucoside-3'-glucuronide,C27H28O17,C27H28O17,True,True,False,cocok
+101289823,Paniculide B,Npc39592,C15H20O5,C15H20O5,True,True,False,cocok
+9848024,Neoandrographolide,Neoandrographolide,C26H40O8,C26H40O8,True,True,False,cocok
+119058017,Emblicanin B,Emblicanin B,C34H20O22,C34H20O22,True,True,False,cocok
+13963777,"5,4'-Dihidroxy-7,8,2',3'-tetramethoxyflavone","5,4'-Dihydroxy-7,8,2',3'-tetramethoxyflavone",C19H18O8,C19H18O8,True,True,False,cocok
+44575280,Bisandrographolide B,Bisandrographolide B,C40H56O8,C40H56O8,True,True,False,cocok
+14340,Dihydroferulic acid,Dihydroferulic Acid,C10H12O4,C10H12O4,True,True,False,cocok
+5318498,"5-Hydroxy-7,8,2'-trimethoxyflavone 5-glucoside","7,8-dimethoxy-2-(2-methoxyphenyl)-5-((2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl)oxychromen-4-one",C24H26O11,C24H26O11,True,True,False,cocok
+6440013,p-Coumaroyl CoA,"Coenzyme A, S-((2E)-3-(4-hydroxyphenyl)-2-propenoate)",C30H42N7O18P3S,C30H42N7O18P3S,True,True,False,cocok
+131752857,[6]-Gingerdiol 3-acetate,[6]-Gingerdiol 3-acetate,C19H30O5,C19H30O5,True,True,False,cocok
+101419545,[6]-Gingerdiol 5-acetate,[6]-Gingerdiol 5-acetate,C19H30O5,C19H30O5,True,True,False,cocok
+534549,Cyclopentaneundecanoic acid,Cyclopentaneundecanoic acid,C16H30O2,C16H30O2,True,True,False,cocok
+44593583,Andrographiside,Andrographiside,C26H40O10,C26H40O10,True,True,False,cocok
+11519131,3-O-beta-D-Glucopyranosylandrographolide,3-O-beta-D-Glucopyranosylandrographolide,C26H40O10,C26H40O10,True,True,False,cocok
+486612,Matairesinoside,Matairesinoside,C26H32O11,C26H32O11,True,True,False,cocok
+5282102,Astragalin,Astragalin,C21H20O11,C21H20O11,True,True,False,cocok
+188316,7-O-Methylwogonin,"5-Hydroxy-7,8-dimethoxyflavone",C17H14O5,C17H14O5,True,True,False,cocok
+5280804,Hirsutrin,Isoquercetin,C21H20O12,C21H20O12,True,True,False,cocok
+444539,Cinnamic acid,Cinnamic Acid,C9H8O2,C9H8O2,True,True,False,cocok
+5317383,Forsythoside D,Forsythoside D,C20H30O13,C20H30O13,True,True,False,cocok
+5316819,Nepetoidin B,Nepetoidin B,C17H14O6,C17H14O6,True,True,False,cocok
+11966126,caffeoyl-CoA,"Coenzyme A, S-((2E)-3-(3,4-dihydroxyphenyl)-2-propenoate)",C30H42N7O19P3S,C30H42N7O19P3S,True,True,False,cocok
+20201,Ethylene glycol monohexadecanoate,2-Hydroxyethyl hexadecanoate,C18H36O3,C18H36O3,True,True,False,cocok
+139031281,Feruloyl-CoA,Feruloyl-CoA,C31H44N7O19P3S,C31H44N7O19P3S,True,True,False,cocok
+5468749,"3,7,4'-Tri-O-methylkaempferol","5-Hydroxy-3,7,4'-trimethoxyflavone",C18H16O6,C18H16O6,True,True,False,cocok
+23928102,Forsythoside B,Forsythoside B,C34H44O19,C34H44O19,True,True,False,cocok
+44258681,Fisetin 4'-glucoside,"3,7-dihydroxy-2-[3-hydroxy-4-[(2S,5S)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]chromen-4-one",C21H20O11,C21H20O11,True,True,False,cocok
+11631693,14-Deoxy-17-hydroxyandrographolide,14-Deoxy-17-hydroxyandrographolide,C20H32O5,C20H32O5,True,True,False,cocok
+5748697,"5-Hydroxy-3,7-dimethoxyflavone","5-Hydroxy-3,7-dimethoxyflavone",C17H14O5,C17H14O5,True,True,False,cocok
+6444037,Cinnamoyl-CoA,Cinnamoyl-CoA,C30H42N7O17P3S,C30H42N7O17P3S,True,True,False,cocok
+11797786,Forsythenside A,Forsythenside A,C22H26O10,C22H26O10,True,True,False,cocok
+5280343,Quercetin,Quercetin,C15H10O7,C15H10O7,True,True,False,cocok
+5281616,Galangin,Galangin,C15H10O5,C15H10O5,True,True,False,cocok
+11624161,14-Deoxyandrographolide,Deoxyandrographolide,C20H30O4,C20H30O4,True,True,False,cocok
+5280445,"5,7,3',4'-Tetrahydroxyflavone",Luteolin,C15H10O6,C15H10O6,True,True,False,cocok
+5280507,Sinapyl alcohol,Sinapyl alcohol,C11H14O4,C11H14O4,True,True,False,cocok
+5281601,"5-Hydroxy-7,4'-dimethoxyflavone","5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,C17H14O5,True,True,False,cocok
+5281954,Tectochrysin,Tectochrysin,C16H12O4,C16H12O4,True,True,False,cocok
+5318369,"5-Hydroxy-7,2',6'-trimethoxyflavone","5-Hydroxy-7,2',6'-trimethoxyflavone",C18H16O6,C18H16O6,True,True,False,cocok

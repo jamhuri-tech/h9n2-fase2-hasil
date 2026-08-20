@@ -1,0 +1,10 @@
+protein,degree,weighted_degree,betweenness,closeness,clustering,is_seed
+MMP9,8,6.361,0.3929,1.0,0.2803,True
+MMP2,6,5.074,0.125,0.8,0.4439,True
+TIMP1,6,4.117,0.125,0.8,0.3898,False
+TIMP4,4,2.889,0.0,0.6667,0.741,False
+RECK,4,2.529,0.0,0.6667,0.7003,False
+SCUBE3,2,1.675,0.0,0.5714,0.8644,False
+DMP1,2,1.565,0.0,0.5714,0.8078,False
+DPP4,2,1.073,0.0,0.5714,0.6571,True
+MIF,2,0.895,0.0,0.5714,0.5835,True

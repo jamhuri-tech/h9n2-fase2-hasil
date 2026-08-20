@@ -1,0 +1,64 @@
+group,target,pdb_id,ligand,control_passed,affinity_mean,affinity_sd,affinity_best
+inang,DPP4,4A5S,085_Forsythoside_D,True,-8.8,0.03,-8.83
+inang,DPP4,4A5S,001_Glucogallin,True,-8.15,0.01,-8.16
+inang,DPP4,4A5S,003_Adoxosidic_acid,True,-7.66,0.02,-7.67
+inang,DPP4,4A5S,035_Caffeic_acid,True,-6.24,0.02,-6.25
+inang,DPP4,4A5S,055_Salvianic_acid_A,True,-6.24,0.02,-6.26
+inang,DPP4,4A5S,029_p-Coumaric_acid,True,-5.71,0.0,-5.71
+inang,DPP4,4A5S,041_+-Ascorbic_acid,True,-5.69,0.01,-5.69
+inang,MIF,6B1K,029_p-Coumaric_acid,True,-7.67,0.0,-7.67
+inang,MIF,6B1K,085_Forsythoside_D,True,-7.38,0.01,-7.39
+inang,MIF,6B1K,035_Caffeic_acid,True,-7.35,0.01,-7.36
+inang,MIF,6B1K,055_Salvianic_acid_A,True,-7.05,0.02,-7.07
+inang,MIF,6B1K,001_Glucogallin,True,-6.06,0.55,-6.69
+inang,MIF,6B1K,003_Adoxosidic_acid,True,-5.64,0.03,-5.67
+inang,MIF,6B1K,041_+-Ascorbic_acid,True,-5.25,0.01,-5.26
+inang,MMP2,8H78,085_Forsythoside_D,True,-9.08,0.11,-9.21
+inang,MMP2,8H78,001_Glucogallin,True,-7.81,0.04,-7.85
+inang,MMP2,8H78,003_Adoxosidic_acid,True,-7.76,0.0,-7.76
+inang,MMP2,8H78,029_p-Coumaric_acid,True,-7.03,0.01,-7.04
+inang,MMP2,8H78,035_Caffeic_acid,True,-7.03,0.01,-7.04
+inang,MMP2,8H78,055_Salvianic_acid_A,True,-6.99,0.0,-6.99
+inang,MMP2,8H78,041_+-Ascorbic_acid,True,-5.97,0.0,-5.97
+inang,MMP9,4XCT,085_Forsythoside_D,True,-9.36,0.01,-9.38
+inang,MMP9,4XCT,001_Glucogallin,True,-8.19,0.05,-8.25
+inang,MMP9,4XCT,003_Adoxosidic_acid,True,-7.84,0.01,-7.85
+inang,MMP9,4XCT,055_Salvianic_acid_A,True,-7.48,0.01,-7.49
+inang,MMP9,4XCT,035_Caffeic_acid,True,-7.3,0.01,-7.31
+inang,MMP9,4XCT,029_p-Coumaric_acid,True,-6.93,0.0,-6.93
+inang,MMP9,4XCT,041_+-Ascorbic_acid,True,-6.07,0.01,-6.07
+virus,Hemagglutinin H9,1JSI,085_Forsythoside_D,True,-6.48,0.01,-6.49
+virus,Hemagglutinin H9,1JSH,085_Forsythoside_D,True,-6.35,0.01,-6.36
+virus,Hemagglutinin H9,1JSI,003_Adoxosidic_acid,True,-6.03,0.0,-6.03
+virus,Hemagglutinin H9,1JSH,003_Adoxosidic_acid,True,-6.01,0.02,-6.03
+virus,Hemagglutinin H9,1JSI,001_Glucogallin,True,-5.52,0.03,-5.56
+virus,Hemagglutinin H9,1JSH,001_Glucogallin,True,-5.31,0.1,-5.37
+virus,Hemagglutinin H9,1JSH,055_Salvianic_acid_A,True,-5.2,0.02,-5.21
+virus,Hemagglutinin H9,1JSI,055_Salvianic_acid_A,True,-5.12,0.01,-5.12
+virus,Hemagglutinin H9,1JSI,029_p-Coumaric_acid,True,-4.9,0.01,-4.9
+virus,Hemagglutinin H9,1JSI,035_Caffeic_acid,True,-4.9,0.01,-4.91
+virus,Hemagglutinin H9,1JSH,035_Caffeic_acid,True,-4.88,0.01,-4.89
+virus,Hemagglutinin H9,1JSH,029_p-Coumaric_acid,True,-4.87,0.01,-4.88
+virus,Hemagglutinin H9,1JSH,041_+-Ascorbic_acid,True,-4.1,0.02,-4.12
+virus,Hemagglutinin H9,1JSI,041_+-Ascorbic_acid,True,-4.1,0.11,-4.23
+virus,Neuraminidase N2,4K1K,085_Forsythoside_D,True,-8.2,0.03,-8.22
+virus,Neuraminidase N2,4K1K,003_Adoxosidic_acid,True,-7.81,0.02,-7.83
+virus,Neuraminidase N2,4K1K,001_Glucogallin,True,-7.53,0.13,-7.67
+virus,Neuraminidase N2,4K1K,055_Salvianic_acid_A,True,-6.23,0.01,-6.24
+virus,Neuraminidase N2,4K1K,035_Caffeic_acid,True,-5.73,0.01,-5.74
+virus,Neuraminidase N2,4K1K,041_+-Ascorbic_acid,True,-5.45,0.0,-5.45
+virus,Neuraminidase N2,4K1K,029_p-Coumaric_acid,True,-5.28,0.04,-5.31
+virus,Nucleoprotein,3RO5,085_Forsythoside_D,True,-8.84,0.03,-8.86
+virus,Nucleoprotein,3RO5,003_Adoxosidic_acid,True,-8.05,0.0,-8.06
+virus,Nucleoprotein,3RO5,001_Glucogallin,True,-7.34,0.05,-7.38
+virus,Nucleoprotein,3RO5,029_p-Coumaric_acid,True,-6.98,0.0,-6.98
+virus,Nucleoprotein,3RO5,035_Caffeic_acid,True,-6.59,0.0,-6.59
+virus,Nucleoprotein,3RO5,055_Salvianic_acid_A,True,-6.46,0.01,-6.46
+virus,Nucleoprotein,3RO5,041_+-Ascorbic_acid,True,-4.97,0.03,-4.99
+virus,PA endonuclease,8T5W,085_Forsythoside_D,True,-9.09,0.01,-9.1
+virus,PA endonuclease,8T5W,003_Adoxosidic_acid,True,-7.38,0.0,-7.38
+virus,PA endonuclease,8T5W,001_Glucogallin,True,-7.35,0.02,-7.37
+virus,PA endonuclease,8T5W,035_Caffeic_acid,True,-6.04,0.03,-6.06
+virus,PA endonuclease,8T5W,055_Salvianic_acid_A,True,-5.64,0.01,-5.65
+virus,PA endonuclease,8T5W,029_p-Coumaric_acid,True,-5.49,0.03,-5.52
+virus,PA endonuclease,8T5W,041_+-Ascorbic_acid,True,-5.29,0.0,-5.29
